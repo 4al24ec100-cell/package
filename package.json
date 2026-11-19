@@ -1,0 +1,21 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4al24ec100-cell/package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/4al24ec100-cell/package/issues"
+  },
+  "homepage": "https://github.com/4al24ec100-cell/package#readme"
+}
